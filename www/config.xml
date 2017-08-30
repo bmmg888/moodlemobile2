@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.icap.mobile"
+        id        = "com.icap.aplicacion"
         versionCode = "20190"
         version   = "1.0">
     <name>ICAP Aplicación</name>
 
     <description>
-        ICAP movil
+        ICAP Aplicación
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
