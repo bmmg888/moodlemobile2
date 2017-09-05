@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "net.moodle.learn"
+        id        = "com.icap.aplicacion"
         versionCode = "3"
-        version   = "1.2">
-    <name>Learn Moodle</name>
+        version   = "1.0">
+    <name>ICAP Móvil</name>
 
     <description>
-        Learn Moodle
+        ICAP Aplicación
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
@@ -16,7 +16,7 @@
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>1.2</string>
+        <string>1.0</string>
     </gap:config-file>
 
     <gap:platform name="ios" />
